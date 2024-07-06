@@ -63,4 +63,3 @@ Bem-vindo ao repositório do meu projeto do módulo de JavaScript do curso Rocke
 - `scripts/`: Pasta contendo os arquivos JavaScript com os exemplos e exercícios de cada tópico.
 - `styles/`: Pasta contendo arquivos CSS para estilização básica.
 
-
